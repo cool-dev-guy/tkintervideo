@@ -1,4 +1,4 @@
-# tkvideo
+# tkintervideo
 
 A simple Tkinter Python Package For synced audio & video playback with a real-time API.
 
