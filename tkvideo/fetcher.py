@@ -3,7 +3,6 @@ Author: Goutham (cool-dev-guy)
 This is a TODO implementation of YT/HLS support
 """
 import m3u8
-import av
 import requests
 class Backend:
     def __init__(self):
