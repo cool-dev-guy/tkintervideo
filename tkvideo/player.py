@@ -9,7 +9,7 @@ from just_playback import Playback
 from PIL import Image
 import tkinter as tk
 import threading
-import numpy as np
+
 class Player(tk.Label):
     def __init__(self,*args,**kwargs):
         super().__init__(*args,**kwargs)
