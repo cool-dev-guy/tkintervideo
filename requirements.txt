@@ -5,3 +5,4 @@ numpy
 Pillow
 imageio
 sv_ttk
+m3u8
