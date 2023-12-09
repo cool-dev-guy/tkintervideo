@@ -1,0 +1,7 @@
+--no-binary just_playback just_playback
+pydub
+moviepy
+numpy
+Pillow
+imageio
+sv_ttk
