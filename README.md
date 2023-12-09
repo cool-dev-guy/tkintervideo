@@ -37,7 +37,7 @@ A simple Tkinter Python Package For synced audio & video playback with a real-ti
 
 ```python
 from tkintervideo import player
-from tkintervideo.tkvideo.tools import Controls
+from tkintervideo.tools import Controls
 import tkinter as tk
 from tkinter import ttk
 import sv_ttk
