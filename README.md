@@ -33,6 +33,10 @@ A simple Tkinter Python Package For synced audio & video playback with a real-ti
     - play/pause/stop/resume
     - volume
     - edits(you can edit the video & audio because moviepy & pydub are built-in)
+
+### Buy me a cool-milk for support & updates
+<a href="https://www.buymeacoffee.com/cooldevguy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cool-milk&emoji=🥛&slug=cooldevguy&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## Usage
 
 ```python
