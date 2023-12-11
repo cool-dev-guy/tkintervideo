@@ -7,11 +7,11 @@ A simple Tkinter Python Package For synced audio & video playback with a real-ti
     - ```bash
       pip install tkvideo
       ```
-- From source
+- If any error's:
     - ```bash
       pip install -r requirements.txt
       ```
-    - Build it normally(refer web).
+    - Or Build it normally(refer web).
 ## Features:
 
     - Controls Widget Added
