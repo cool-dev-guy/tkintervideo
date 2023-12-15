@@ -2,6 +2,11 @@
 
 A simple Tkinter Python Package For synced audio & video playback with a real-time API.
 
+`beta 0.0.3`
+<p align="center">
+<img src="https://github.com/cool-dev-guy/tkintervideo/assets/116984615/73b591e6-234e-464b-9e0d-2a350ca73946)" width=100% height=100%>
+</p>
+
 ## Installation
 - From PyPi
     - ```bash
@@ -35,7 +40,6 @@ A simple Tkinter Python Package For synced audio & video playback with a real-ti
     - edits(you can edit the video & audio because moviepy & pydub are built-in)
 
 ### Buy me a cool-milk for support & updates
-<a href="https://www.buymeacoffee.com/cooldevguy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cool-milk&emoji=🥛&slug=cooldevguy&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <a href="https://www.buymeacoffee.com/cooldevguy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cool-milk&emoji=🥛&slug=cooldevguy&button_colour=49a835&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
